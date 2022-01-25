@@ -1,6 +1,20 @@
+/* Reset CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Styling Start Here */
 body {
   font-weight: light;
   font-family: georgia;
   font-size: 16px;
+  margin: 0 auto;
+}
+
+.container {
+  width: 700px;
+  background-color: aquamarine;
   margin: 0 auto;
 }
