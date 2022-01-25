@@ -12,3 +12,9 @@ body {
   font-size: 16px;
   margin: 0 auto;
 }
+
+.container {
+  width: 700px;
+  background-color: aquamarine;
+  margin: 0 auto;
+}
